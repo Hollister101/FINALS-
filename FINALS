@@ -1,0 +1,18 @@
+TITLE 
+GARBAGE COLLECTOR
+
+DESCRIPTION
+An App that will identify the location of garbage to be collected in Baguio City.
+
+The app will basically have 2 users. The junkster (One who have the accumulated garbage) and the collector (The one who collects the garbage).
+
+The app is inspired by the idea from Grab Taxi, Once the Junkster mark the location of his garbage the collector will confirm that he will be the one to collect the garbage. 
+
+The junkster will also put an amount to indicate his price for the collection of his garbage.
+
+Objectives
+
+1.) Reduce garbage that is thrown anywhere.
+2.) Reduce Garbage that is not collected in time.
+3.) Reduce burnt garbage by the people of the City
+4.) Reduce waste in Baguio City.
