@@ -2,17 +2,21 @@ TITLE
 GARBAGE COLLECTOR
 
 DESCRIPTION
-An App that will identify the location of garbage to be collected in Baguio City.
-
-The app will basically have 2 users. The junkster (One who have the accumulated garbage) and the collector (The one who collects the garbage).
-
-The app is inspired by the idea from Grab Taxi, Once the Junkster mark the location of his garbage the collector will confirm that he will be the one to collect the garbage. 
-
-The junkster will also put an amount to indicate his price for the collection of his garbage.
+  The Garbage Collector is a mobile application that would study and determines the municipal solid waste generation and its composition and investigates the existing management system of Baguio City, in order to identify problems and provide an Information Technology application that will be used by the community to encourage its residents to have an organized solid waste management system.
+  The proposed information System will has 2 main users the Junkster and the collector.The junkster is the user who have the accumulated garbage and the collector is the one who collects the garbage.
+  The basic functionality of the proposed information systems is inspired the the famous Grab Taxi App. Like the Grab Taxi The Garbage Collector will also use a GPS(Global Positioning System) and GIS (Geographical Information System). To trigger the initiation of the app, the Junkster will mark his position which indicates that he has a garbage to be collected. The collector, then will be notified that he has a garbage to collect,confirms the notification then collects the garbage. 
 
 Objectives
 
 1.) Reduce garbage that is thrown anywhere.
 2.) Reduce Garbage that is not collected in time.
-3.) Reduce burnt garbage by the people of the City
+3.) Reduce garbage that are burned by the people of the City.
 4.) Reduce waste in Baguio City.
+
+Expected Problems
+1.)  Acceptance of the Proposed Information System
+	Solution
+  -Do an Advocacy Plan in partnership with the Local Government of Baguio.
+2.) System Development on mobile Application
+	Solution
+	  - Start Learning tutorial on Mobile App Development
