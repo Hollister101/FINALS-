@@ -2,7 +2,7 @@ TITLE
 GARBAGE COLLECTOR
 
 DESCRIPTION
-  The Garbage Collector is a mobile application that would study and determines the municipal solid waste generation and its composition and investigates the existing management system of Baguio City, in order to identify problems and provide an Information Technology application that will be used by the community to encourage its residents to have an organized solid waste management system.
+  The Garbage Collector is a mobile application that would determine the municipal solid waste generation and its composition and investigates the existing management system of Baguio City, in order to identify problems and provide an Information Technology application that will be used by the community to encourage its residents to have an organized solid waste management system.
   The proposed information System will has 2 main users the Junkster and the collector.The junkster is the user who have the accumulated garbage and the collector is the one who collects the garbage.
   The basic functionality of the proposed information systems is inspired the the famous Grab Taxi App. Like the Grab Taxi The Garbage Collector will also use a GPS(Global Positioning System) and GIS (Geographical Information System). To trigger the initiation of the app, the Junkster will mark his position which indicates that he has a garbage to be collected. The collector, then will be notified that he has a garbage to collect,confirms the notification then collects the garbage. 
 
